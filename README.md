@@ -13,6 +13,8 @@ In order to check if users who left written reviews are more pessimistic or more
 ## Part IV: Should the Elite be Trusted?
 
 ## Cluster Configuration 
+![cluster_configuration](https://user-images.githubusercontent.com/65482040/100181379-0f278900-2f15-11eb-955c-ca6c8775a147.png)
 
 
 ## Notebook Configuration
+![notebook_configuration](https://user-images.githubusercontent.com/65482040/100183899-1d78a380-2f1b-11eb-9c4d-25ca4f162316.png)
